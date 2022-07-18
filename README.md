@@ -20,7 +20,7 @@ Once the election winner had been established and the analysis of the largest co
 
 1.) How many votes were cast in this congressional election?
 
-     * 369,711 votes were cast in Arapahoe, Denver, and Jefferson.
+* 369,711 votes were cast in Arapahoe, Denver, and Jefferson.
       
 We were given the data for this, for the next step we needed to create a code to count each row and provide the count of votes.
 
@@ -34,9 +34,9 @@ Once the total votes is set to 0 this will count each row to get the total votes
 
 2.) Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 
-     * Arapahoe County: Total - 24,801 Percentage total votes- 6.7%
-     * Denver County: Total - 272,892 Percentage total votes- 73.8%
-     * Jefferson County: Total - 38,855 Percentage total votes- 10.5%
+ * Arapahoe County: Total - 24,801 Percentage total votes- 6.7%
+ * Denver County: Total - 272,892 Percentage total votes- 73.8%
+ * Jefferson County: Total - 38,855 Percentage total votes- 10.5%
 
 Using an "if-statement" will help us get the total votes and percentages we are looking for.
 
@@ -52,7 +52,7 @@ Once we have the total votes we can break the total amount for each county.
 
 3.) Which county had the largest number of votes?
 
-     * Denver County was the county with the largest voter turnout
+ * Denver County was the county with the largest voter turnout
 
 Using this code we can get the county with the largest vote turnout. The code here is just comparing all the total votes for each county and providing us the one with the largest turnout.
 
@@ -60,15 +60,15 @@ Using this code we can get the county with the largest vote turnout. The code he
 
 4.) Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 
-     * Charles Casper Stockham had $85,213 total votes with 23% of the total votes.
-     * Diana DeGette had $272,892 total votes with 74% of the total votes.
-     * Raymon Anthony Doane had $11,606 total cotes with 3% of the total votes.
+ * Charles Casper Stockham had $85,213 total votes with 23% of the total votes.
+ * Diana DeGette had $272,892 total votes with 74% of the total votes.
+ * Raymon Anthony Doane had $11,606 total cotes with 3% of the total votes.
      
 We changed the variables in the code candidate options and names in order to get the counts and percentages.     
 
 5.) Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
-     * Diana Degette won the election, she had a total of 272,892 votes, she had the majority of the total votes with 74% ballots.
+ * Diana Degette won the election, she had a total of 272,892 votes, she had the majority of the total votes with 74% ballots.
 
 This code was the same as the one used to get the largest county turnout but we changed the candidate variables to get the person with largest vote count.
 
